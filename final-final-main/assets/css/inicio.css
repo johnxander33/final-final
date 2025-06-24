@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    
+}
+.logo{
+    display: flex;
+    background-color:  blue;
+    
+}
+.logo img{
+    height: 50 px;
+}
